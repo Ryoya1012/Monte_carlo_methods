@@ -1,3 +1,6 @@
+#SPDX-License-Identifer: BSD-2.0
+#*Copyright (c) 2021 Ryoya Sato. All rights resrved.
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
